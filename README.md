@@ -2,6 +2,7 @@
 - I'm not maintaining this repo anymore because I've no personal time to work on it.
 - You can look at this excellent repo which does the same... in better 😋 :
 - https://github.com/marcelhoogantink/enhanced-shutter-card
+- https://github.com/samoswall/pic-shutter-card
 ```
 
 # Shutter card
